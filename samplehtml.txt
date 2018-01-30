@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>
+A Simple HTML Document
+</title>
+</head>
+<body>
+<p>welcome to jenkins training</p>
+<p>hello</p>
+</body>
+</html>
